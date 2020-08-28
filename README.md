@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm a junior developer, currently based in the UK. 
+I'm a budding new developer, currently based in the UK. 
 
 After several years in scientific research and editing - where I collaborated with software engineers, data scientists, UX designers, chemists, and physicists - I decided to pivot my career to development. 
 
