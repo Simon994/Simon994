@@ -6,7 +6,7 @@ My first taste of programming was during my DPhil (PhD) at the University of Oxf
 
 The technology-driven change I experienced in the scientific publishing industry inspired me to return to programming. Now, having completed the Software Engineering Immersive at General Assembly, and gained experience as a Site Reliability Engineer at Dunelm, I’m looking to apply my skills for problem solving and passion for software development in an environment that encourages learning and creative, curious thinking.
 
-My interests and current learning include React.js and React Native, JavaScript, Ruby, Python and the testing frameworks Jest and Cypress.
+My interests and current learning include JavaScript, Python, React.js and React Native, Ruby, TypeScript, and the testing frameworks Jest and Cypress.
 
 Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/simonrtneil/
 
