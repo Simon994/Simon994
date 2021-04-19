@@ -1,10 +1,12 @@
 ### Hi! 👋
 
-I'm a software engineer, currently based in the UK. 
+I'm a junior developer, currently based in the UK. 
 
-After several years in scientific research and editing - where I collaborated with software engineers, data scientists, UX designers, chemists, and physicists - I decided to pivot my career to development. 
+My first taste of programming was during my DPhil (PhD) at the University of Oxford. There, I designed and programmed instruments that helped to uncover the chemistry and physics of bird navigation. I also developed a passion for publishing my results, which led me to become the editor for a portfolio of scientific journals. As an editor, I collaborated with software engineers, data scientists and UX designers to develop journal products that our readers and authors loved.
 
-My main focus is currently on Python, but my interests also include React and JavaScript, as well as several other technologies.  
+The technology-driven change I experienced in the scientific publishing industry inspired me to return to programming. Now, having completed the Software Engineering Immersive at General Assembly, and gained experience as a Site Reliability Engineer at Dunelm, I’m looking to apply my skills for problem solving and passion for software development in an environment that encourages learning and creative, curious thinking.
+
+My interests and current learning include React.js and React Native, JavaScript, Ruby, Python and the testing frameworks Jest and Cypress.
 
 Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/simonrtneil/
 
